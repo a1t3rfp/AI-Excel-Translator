@@ -1,0 +1,4 @@
+customtkinter
+openpyxl
+deep-translator
+pillow

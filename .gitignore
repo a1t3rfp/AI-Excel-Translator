@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Translation memory
+translation_memory_*.json
+
+# Progress
+progress.json
+
+# Generated Excel files
+*_translated.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
