@@ -32,7 +32,7 @@ Offline AI-powered Excel translator for **Excel (.xlsx)** files using **Meta NLL
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Excel-Translator.git
+git clone https://github.com/a1t3rfp/AI-Excel-Translator.git
 cd AI-Excel-Translator
 ```
 
